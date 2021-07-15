@@ -4,3 +4,8 @@ CRUD REST API for storing UML Class Diagrams powered by Spring Boot, Jooq, and P
 
 ## Documentation
 
+Schema for the database backing the REST API
+
+![schema](https://github.com/JosephPrichard/TurboUMLapi/blob/main/db/schema.png)
+
+For more information about what http request endpoints are allowed, view the javadoc comments in https://github.com/JosephPrichard/TurboUMLapi/tree/main/src/main/java/com/turbouml/controllers.
